@@ -1,0 +1,41 @@
+﻿  game.cpp
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(108,55): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(111,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(114,55): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(117,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:         with
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:         [
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:             T=float
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:         ]
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:         and
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:         [
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:             T=int
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(181,60): warning C4244:         ]
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:         with
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:         [
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:             T=float
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:         ]
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:         and
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:         [
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:             T=int
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(180,60): warning C4244:         ]
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(267,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(267,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(268,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\game.cpp(268,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  main.cpp
+  tilemap.cpp
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(41,25): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(41,25): warning C4244:         with
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(41,25): warning C4244:         [
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(41,25): warning C4244:             T=int
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(41,25): warning C4244:         ]
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(42,25): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(42,25): warning C4244:         with
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(42,25): warning C4244:         [
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(42,25): warning C4244:             T=int
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\tilemap.cpp(42,25): warning C4244:         ]
+  Génération de code en cours...
+  05_platformer_oop.vcxproj -> C:\Users\utilisateur\Source\Repos\923-4FSC0PF001-CourseAndFormatives2\x64\Debug\05_platformer_oop.exe

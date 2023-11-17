@@ -1,0 +1,1 @@
+C:\Users\utilisateur\source\repos\923-4FSC0PF001-CourseAndFormatives2\SimpleLevelEditor\05_platformer_oop\x64\Debug\05_platformer_oop.vcxproj.CopyComplete
